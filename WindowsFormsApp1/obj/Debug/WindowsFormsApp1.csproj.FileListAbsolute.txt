@@ -1,0 +1,20 @@
+C:\Users\amute\source\repos\Lab9Joc\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\amute\source\repos\Lab9Joc\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\amute\source\repos\Lab9Joc\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\amute\source\repos\Lab9Joc\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\amute\source\repos\Lab9Joc\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Joc.resources
+C:\Users\amute\source\repos\Lab9Joc\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\amute\source\repos\Lab9Joc\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\amute\source\repos\Lab9Joc\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\amute\source\repos\Lab9Joc\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\amute\source\repos\Lab9Joc\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+G:\Code nush\Code source\Lab9Joc\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+G:\Code nush\Code source\Lab9Joc\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+G:\Code nush\Code source\Lab9Joc\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+G:\Code nush\Code source\Lab9Joc\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+G:\Code nush\Code source\Lab9Joc\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Joc.resources
+G:\Code nush\Code source\Lab9Joc\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+G:\Code nush\Code source\Lab9Joc\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+G:\Code nush\Code source\Lab9Joc\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+G:\Code nush\Code source\Lab9Joc\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+G:\Code nush\Code source\Lab9Joc\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
